@@ -10,6 +10,7 @@ networks (PINNs) using JAX (with Equinox and Optax).
 
 ### VPINNs (Variational PINNs)
 - Burger's equation (1D)
+- Thermoelastic damping (TED) in a vibrating ring
 
 ### Deep Ritz 
 - 2D static plate 
